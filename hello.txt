@@ -1,1 +1,2 @@
 Hello! This is my first Git Experiment.
+Learnning Git and GitHub using VS Code
